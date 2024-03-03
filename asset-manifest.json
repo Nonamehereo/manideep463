@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manideep463/static/css/main.ff02f4b5.css",
+    "main.js": "/manideep463/static/js/main.76c82ae2.js",
+    "static/js/453.3eb0b7e9.chunk.js": "/manideep463/static/js/453.3eb0b7e9.chunk.js",
+    "index.html": "/manideep463/index.html",
+    "main.ff02f4b5.css.map": "/manideep463/static/css/main.ff02f4b5.css.map",
+    "main.76c82ae2.js.map": "/manideep463/static/js/main.76c82ae2.js.map",
+    "453.3eb0b7e9.chunk.js.map": "/manideep463/static/js/453.3eb0b7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.76c82ae2.js"
+  ]
+}
